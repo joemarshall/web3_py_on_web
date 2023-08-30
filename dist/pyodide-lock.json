@@ -3652,11 +3652,11 @@
             "version": "6.7.0",
             "file_name": "web3-6.7.0-py3-none-any.whl",
             "install_dir": "site",
-            "sha256": "f24a128ec142d6c7a172973e4083aaca00c608fa56f19badfee9c03d4a1b589d",
+            "sha256": "00e4ad816d37068d8b825d965ac8d730a9ff56f23169ff9874438f028c2097c5",
             "imports": [
                 "web3"
             ],
-            "depends": ["micropip","eth-abi","eth-account","eth-hash","eth-typing","eth-utils","hexbytes","jsonschema","lru-dict","protobuf","requests","typing-extensions","pyunormalize","idna"]
+            "depends": ["micropip","eth-abi","eth-account","eth-hash","eth-typing","eth-utils","hexbytes","jsonschema","lru-dict","protobuf","requests","typing-extensions","pyunormalize","idna","pyodide-http"]
         },
         "webencodings": {
             "name": "webencodings",
